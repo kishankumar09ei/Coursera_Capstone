@@ -1,0 +1,259 @@
+{
+    "meta": {
+        "code": 200,
+        "requestId": "5f0a9eda0ab6c4151b37ac05"
+    },
+    "response": {
+        "headerLocation": "The Beaches",
+        "headerFullLocation": "The Beaches, Toronto",
+        "headerLocationGranularity": "neighborhood",
+        "totalResults": 4,
+        "suggestedBounds": {
+            "ne": {
+                "lat": 43.680857404499996,
+                "lng": -79.28682091449052
+            },
+            "sw": {
+                "lat": 43.67185739549999,
+                "lng": -79.29924148550948
+            }
+        },
+        "groups": [
+            {
+                "type": "Recommended Places",
+                "name": "recommended",
+                "items": [
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4bd461bc77b29c74a07d9282",
+                            "name": "Glen Manor Ravine",
+                            "location": {
+                                "address": "Glen Manor",
+                                "crossStreet": "Queen St.",
+                                "lat": 43.67682094413784,
+                                "lng": -79.29394208780985,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 43.67682094413784,
+                                        "lng": -79.29394208780985
+                                    }
+                                ],
+                                "distance": 89,
+                                "cc": "CA",
+                                "city": "Toronto",
+                                "state": "ON",
+                                "country": "Canada",
+                                "formattedAddress": [
+                                    "Glen Manor (Queen St.)",
+                                    "Toronto ON",
+                                    "Canada"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d159941735",
+                                    "name": "Trail",
+                                    "pluralName": "Trails",
+                                    "shortName": "Trail",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4bd461bc77b29c74a07d9282-0"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4ad4c062f964a52011f820e3",
+                            "name": "The Big Carrot Natural Food Market",
+                            "location": {
+                                "address": "125 Southwood Dr",
+                                "lat": 43.678879,
+                                "lng": -79.297734,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 43.678879,
+                                        "lng": -79.297734
+                                    }
+                                ],
+                                "distance": 471,
+                                "postalCode": "M4E 0B8",
+                                "cc": "CA",
+                                "city": "Toronto",
+                                "state": "ON",
+                                "country": "Canada",
+                                "formattedAddress": [
+                                    "125 Southwood Dr",
+                                    "Toronto ON M4E 0B8",
+                                    "Canada"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "50aa9e744b90af0d42d5de0e",
+                                    "name": "Health Food Store",
+                                    "pluralName": "Health Food Stores",
+                                    "shortName": "Health Food Store",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/food_grocery_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            },
+                            "venuePage": {
+                                "id": "75150878"
+                            }
+                        },
+                        "referralId": "e-0-4ad4c062f964a52011f820e3-1"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b8daea1f964a520480833e3",
+                            "name": "Grover Pub and Grub",
+                            "location": {
+                                "address": "676 Kingston Rd.",
+                                "crossStreet": "at Main St.",
+                                "lat": 43.679181434941015,
+                                "lng": -79.29721535878515,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 43.679181434941015,
+                                        "lng": -79.29721535878515
+                                    }
+                                ],
+                                "distance": 460,
+                                "postalCode": "M4E 1R4",
+                                "cc": "CA",
+                                "city": "Toronto",
+                                "state": "ON",
+                                "country": "Canada",
+                                "formattedAddress": [
+                                    "676 Kingston Rd. (at Main St.)",
+                                    "Toronto ON M4E 1R4",
+                                    "Canada"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d11b941735",
+                                    "name": "Pub",
+                                    "pluralName": "Pubs",
+                                    "shortName": "Pub",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4b8daea1f964a520480833e3-2"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4df91c4bae60f95f82229ad5",
+                            "name": "Upper Beaches",
+                            "location": {
+                                "lat": 43.68056321147582,
+                                "lng": -79.2928688743688,
+                                "labeledLatLngs": [
+                                    {
+                                        "label": "display",
+                                        "lat": 43.68056321147582,
+                                        "lng": -79.2928688743688
+                                    }
+                                ],
+                                "distance": 468,
+                                "cc": "CA",
+                                "city": "Toronto",
+                                "state": "ON",
+                                "country": "Canada",
+                                "formattedAddress": [
+                                    "Toronto ON",
+                                    "Canada"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4f2a25ac4b909258e854f55f",
+                                    "name": "Neighborhood",
+                                    "pluralName": "Neighborhoods",
+                                    "shortName": "Neighborhood",
+                                    "icon": {
+                                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/neighborhood_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "photos": {
+                                "count": 0,
+                                "groups": []
+                            }
+                        },
+                        "referralId": "e-0-4df91c4bae60f95f82229ad5-3"
+                    }
+                ]
+            }
+        ]
+    }
+}
